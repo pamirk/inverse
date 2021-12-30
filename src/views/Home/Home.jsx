@@ -448,7 +448,7 @@ function Home() {
                       alt="Team"
                     />
                     <div className="rounded-b-lg px-2 py-4 bg-orange-900">
-                      <p className="text-sm text-white truncate">susan</p>
+                      <p className="text-sm text-white truncate">Susan</p>
                     </div>
                   </div>
                   <div className="w-auto md:w-64 mx-2 flex flex-col">
