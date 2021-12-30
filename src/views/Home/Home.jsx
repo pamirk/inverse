@@ -233,7 +233,8 @@ function Home() {
                 <div className="flex flex-col">
                   <img
                     className="h-48 w-auto object-cover rounded-lg"
-                    src="/images/scene.jpg"
+                    src="/images/man_car.jpg"
+
                     alt=""
                   />
                   <h4 className="mt-2 text-2xl text-white font-medium">
@@ -248,7 +249,7 @@ function Home() {
                 <div className="flex flex-col">
                   <img
                     className="h-48 w-auto object-cover rounded-lg"
-                    src="/images/exp-2.png"
+                    src="/images/scene.jpg"
                     alt=""
                   />
                   <h4 className="mt-2 text-2xl text-white font-medium">

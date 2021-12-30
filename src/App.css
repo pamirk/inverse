@@ -19,6 +19,8 @@
 .token {
   height: 80vh;
   background-color: #ffc903;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  url("images/man_car.jpg");
 }
 
 .token .block {

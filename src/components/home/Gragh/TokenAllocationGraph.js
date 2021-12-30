@@ -2,7 +2,7 @@ import React, {Fragment, useState} from "react";
 import Lottie from "react-lottie";
 import * as animationData from "../../../graph.json";
 import {Pie, PieChart, Tooltip} from "recharts";
-import  "../../../components/design/App.css";
+import  "../../../App.css";
 const Graph = (props) => {
     // const [open, setOpen] = useState(false);
     const defaultOptions = {
