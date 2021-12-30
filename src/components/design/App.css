@@ -1,0 +1,75 @@
+.flex {
+  display: flex;
+}
+.gflex-col {
+  flex-direction: column;
+}
+.aic {
+  align-items: center;
+}
+.jc {
+  justify-content: center;
+}
+.cleanbtn {
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
+.token {
+  height: 80vh;
+  background-color: #ffc903;
+}
+
+.token .block {
+  background-color: #604328;
+  height: 80%;
+  width: 90%;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 0px 2px,
+    rgba(0, 0, 0, 0.65) 0px 4px 6px -1px,
+    rgba(32, 32, 32, 0.08) 0px 1px 0px inset;
+}
+.token .block .left {
+  flex: 1;
+}
+.chart {
+  width: 700px;
+
+}
+.token .block .right {
+  flex: 1;
+}
+.block .right .heading {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+.block .right .contant {
+  padding: 20px 0;
+}
+.block .right .contant .item {
+}
+.block .right .contant .item:nth-child(7) {
+  padding-bottom: 26px;
+}
+.block .right .contant .item .lbl {
+  color: #dfae0a;
+  font-weight: 500;
+  margin-right: 10px;
+
+}
+.block .right .contant .item .lbl-data {
+  color: #fff;
+}
+.block .right .contant .btn {
+  background: #FFC903;
+  max-width: 180px;
+  min-height: 40px;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 8px;
+  font-size: 1rem;
+  line-height: 1rem;
+  padding: 1rem 1rem;
+}
